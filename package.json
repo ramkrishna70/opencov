@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Open sourced coverage tool",
   "main": "index.js",
-  "start": "node index.js"
+  "start": "node index.js",
   "directories": {
     "test": "test"
   },
